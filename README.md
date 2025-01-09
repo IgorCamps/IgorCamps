@@ -9,7 +9,7 @@
 
 ## Linguagens e Tecnologias
 
-Nesta seção, apresento as principais linguagens e tecnologias com as quais trabalho e tenho experiência.
+### Nesta seção, apresento as principais linguagens e tecnologias com as quais trabalho eu tenho experiência.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
