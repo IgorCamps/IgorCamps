@@ -8,7 +8,7 @@
 </div>
 ![Image](https://github.com/user-attachments/assets/c411f260-8a17-4f20-9922-d6ee6c6ff069)
 
-https://github.com/IgorCamps/IgorCamps/issues/1#issue-2904133153
+<img src="https://github.com/IgorCamps/IgorCamps/issues/1#issue-2904133153">
 ## Linguagens e Tecnologias
 
 ### Nesta seção, apresento as principais linguagens e tecnologias que tenho experiência.
