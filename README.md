@@ -6,7 +6,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcamps&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
-
+![Image](https://github.com/user-attachments/assets/c411f260-8a17-4f20-9922-d6ee6c6ff069)
 ## Linguagens e Tecnologias
 
 ### Nesta seção, apresento as principais linguagens e tecnologias que tenho experiência.
