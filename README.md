@@ -1,12 +1,5 @@
 ## Oi, eu sou o Igor 😁
 
-<div>
-  <a href="https://beacons.ai/igorcamps">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorcamps&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcamps&layout=compact&langs_count=16&theme=dark"/>
-  </a>
-</div>
-
 ## Linguagens e Tecnologias
 
 ### Nesta seção, apresento as principais linguagens e tecnologias que tenho experiência.
